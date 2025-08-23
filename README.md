@@ -1,4 +1,4 @@
-# PostSphere-Social Media App
+# PostHub-Social Media App
 
 This project is a full-stack **GraphQL-powered social media application** built using the **MERN stack (MongoDB, Express, React, Node.js)** with **Apollo Client** for handling GraphQL on the frontend.
 
